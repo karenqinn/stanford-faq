@@ -5,13 +5,13 @@ If you are reading this README it means you have downloaded `bot-tutorial-master
 
 ### Obtain a Bot Identity Token
 Before you can connect to a ROAR contest via one of the provided Quickstart Jupyter Notebooks, you will need complete below steps to register your bot in the contest you wish to enter.
-1. Launch the [ROAR web application](https://stanford-roar.com) and log in. 
+1. Launch the [ROAR web application](https://web.stanford-roar.com) and log in. 
 1. Click *View & Enter Your Bots* button to the right of the contest you wish to enter your bot in and follow the bot creation wizard.
 1. Use *COPY TOKEN* button to put the identity token generated for your bot in the Clipboard. You'll need to paste this token in the Jupyter notebooks described later in order for your bot code to be able to connect to the ROAR server.
 
 ### Obtain an IEX free-tier token
 The Roar notebook below (DTCC-Quickstart.ipynb) requires an API token from the IEX provider.  The steps for doing so are as follows:
-1. Go to www.iexcloud.io
+1. Go to https://iexcloud.io
 2. Click "Get Started" in the upper right.
 3. Fill out and submit the form.
 4. Click "Select Free Plan" in the lower left.
