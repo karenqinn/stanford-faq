@@ -18,7 +18,7 @@ The Roar notebook below (DTCC-Quickstart.ipynb) requires an API token from the I
 5. An email will be sent to you to verify your email address.  Go to that email and click the link it gives.
 6. This will bring up a screen prompting you to enter a code.  Go to your email and find that code in a second email that was sent.  Enter the code.
 7. You should now be able to log in.  Do so, and navigate to "API tokens" in the upper left.
-8. Copy your API token.  This is the one to be used as the IEX token (not the ROAR token) in the notebook below.
+8. Copy your secret API token.  This is the one to be used as the IEX token (not the ROAR token) in the notebook below.
 
 ## Review Contest Description
 Make sure to review the Contest Description page for the contest in which you want to enter your bot model.  You can find it by browsing the [ROAR Contests](https://web.stanford-roar.com/#/contests) view and clicking the *Read Description* button to the right of the contest name.
